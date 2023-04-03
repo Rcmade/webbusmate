@@ -34,7 +34,7 @@ const App = () => {
         banner="banner02"
       />
       <Download /> */}
-      <div className="px-4 py-2 justify-around items-center bg-primary flex w-full banner04">
+      {/* <div className="px-4 py-2 justify-around items-center bg-primary flex w-full banner04">
         <p
           className={` my-5 md:my-10 flex gap-x-5 items-center font-IBMPlex font-light text-white text-xl md:text-3xl lg:text-4xl md:leading-16 `}
         >
@@ -53,7 +53,7 @@ const App = () => {
           <Link href="/content/privacy">Privacy Policy</Link>
           <Link href="/content/contact">Contact</Link>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };
