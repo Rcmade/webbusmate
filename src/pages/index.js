@@ -1,10 +1,29 @@
-import Image from "next/image";
-import { Download, Features, SectionWrapper } from "../../src/components";
-import Link from "next/link";
+import { SectionWrapper } from "../../src/components";
+import Head from "next/head";
 
 const App = () => {
   return (
     <>
+      <Head>
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/favicon_io/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon_io/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="favicon_io/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/site.webmanifest"></link>
+      </Head>
       <SectionWrapper
         title="Track your bus from your home without calling any person"
         description="Share the app to your friends who board before you to track your bus"
