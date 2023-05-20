@@ -50,7 +50,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetUrl={"/assets/playstore.png"}
-              link="https://expo.dev/@adrianhajdin/react_native_app?serviceType=classic&distribution=expo-go"
+              link="https://play.google.com/store/apps/details?id=com.busmate"
             />
           )}
         </div>

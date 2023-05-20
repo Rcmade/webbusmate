@@ -12,8 +12,8 @@ const contact = () => {
           <div className=" text-lg">
             <span className="font-bold mr-2">Our Email:</span>
             <span className="text-slate-900">
-              <Link href="mailto: support@busmets.com">
-                support@busmets.com
+              <Link href="mailto: support@busmate.com">
+                support@busmate.com
               </Link>
             </span>
           </div>

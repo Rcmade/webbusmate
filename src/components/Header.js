@@ -8,11 +8,11 @@ const Header = () => {
         <div className=" container top-0 flex  ">
           <div className="bg-white flex rounded-full p-2 ">
             <Image
-              src={"/assets/BusmetsLogo.png"}
+              src={"/assets/BusmateLogo.png"}
               className="object-contain  "
               width={60}
               height={60}
-              alt="BusMets.com"
+              alt="Busmate.com"
             />
           </div>
         </div>
