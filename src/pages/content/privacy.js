@@ -6,7 +6,7 @@ const privacy = () => {
     <div className="banner min-h-screen md:p-16 sm:p-8">
       <div className=" px-3 pt-24 sm:pt-20">
         <h1 className=" text-2xl sm:text-3xl font-bold text-white">
-          Privacy Policy for <span>Busmate.com</span>
+          Privacy Policy for <span className="font-extrabold">Busmate App</span>
         </h1>
         <ol className=" mt-10 flex flex-col gap-y-4 ">
           {privacyData.map((data, index) => {

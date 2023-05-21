@@ -50,7 +50,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetUrl={"/assets/playstore.png"}
-              link="https://play.google.com/store/apps/details?id=com.busmate"
+              link="https://play.google.com/store/apps/details?id=com.busmets"
             />
           )}
         </div>
