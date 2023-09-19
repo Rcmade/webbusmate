@@ -9,10 +9,12 @@ export const metadata = {
   title: "BusMate",
   description: "BusMate is a bus tracking app for the city of Indore.",
   other: {
-    "twitter:image": "/assets/logoTransparent.png",
+    "twitter:image":
+      "https://res.cloudinary.com/du1fpl9ph/image/upload/v1686144628/BusmateTransparent512_512Logo_ugiflk.png",
     "twitter:card": "summary_large_image",
     "og:url": "https://webbusmate.vercel.app/",
-    "og:image": "/assets/logoTransparent.png",
+    "og:image":
+      "https://res.cloudinary.com/du1fpl9ph/image/upload/v1686144628/BusmateTransparent512_512Logo_ugiflk.png",
     "og:type": "website",
   },
 };
