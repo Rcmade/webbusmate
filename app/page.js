@@ -10,7 +10,7 @@ export default function Home() {
     <main className="bg-white overflow-x-hidden">
       <div className="flex  flex-col md:flex-row justify-center pt-32  w-screen bg-violet-900 items-center">
         <div className="flex flex-col items-center md:items-start ">
-          <h1 className="text-[4rem] self-end   sm:text-8xl md:text-9xl lg:text-[12xl] xl:text-[13rem] font-bold text-white ">
+          <h1 className="text-[4rem] self-end sm:text-8xl md:text-9xl lg:text-[12xl] xl:text-[13rem] font-bold text-white ">
             BusMate
           </h1>
           <PlayStore />
