@@ -9,7 +9,7 @@ export const metadata = {
   title: "BusMate",
   description: "BusMate is a bus tracking app for the city of Indore.",
   other: {
-    "og:url": "https://webbusmate.vercel.app/",
+    "og:url": "https://webbusmate.vercel.app",
     "og:image": "/assets/logoTransparent.png",
     "og:type": "website",
   },
