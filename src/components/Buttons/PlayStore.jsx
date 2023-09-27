@@ -3,7 +3,7 @@ import React from 'react'
 const PlayStore = () => {
   return (
     <a
-      href="https://play.google.com/store/apps/details?id=com.busmets"
+      href="https://play.google.com/store/apps/details?id=com.busmate"
       target="_blank"
       className="flex cursor-pointer mt-3 w-44 sm:w-48 h-14 bg-black text-white rounded-lg items-center justify-center"
     >
