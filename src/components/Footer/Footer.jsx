@@ -24,9 +24,14 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link href="/contact" className="hover:underline">
+            <Link href="/contact" className="mr-4 hover:underline md:mr-6">
               Contact
             </Link>
+          </li>
+          <li>
+            <span className="hover:underline">
+              Made by Rahul Chourasiya and Harshit Nigam
+            </span>
           </li>
         </ul>
       </div>
